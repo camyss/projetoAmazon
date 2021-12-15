@@ -1,0 +1,1 @@
+ Abrir o site da Amazon, pesquisar por  iphone, pegar os resultados da primeira página (nome e preço) e criar uma planilha Excel com esses dados. 
